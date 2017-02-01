@@ -65,7 +65,7 @@
             // 
             // bttCrear
             // 
-            this.bttCrear.Location = new System.Drawing.Point(332, 6);
+            this.bttCrear.Location = new System.Drawing.Point(372, 50);
             this.bttCrear.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.bttCrear.Name = "bttCrear";
             this.bttCrear.Size = new System.Drawing.Size(226, 94);
@@ -76,7 +76,7 @@
             // 
             // udVelocidad
             // 
-            this.udVelocidad.Location = new System.Drawing.Point(52, 78);
+            this.udVelocidad.Location = new System.Drawing.Point(160, 69);
             this.udVelocidad.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.udVelocidad.Maximum = new decimal(new int[] {
             180,
@@ -114,7 +114,7 @@
             // 
             // bttComprueba
             // 
-            this.bttComprueba.Location = new System.Drawing.Point(486, 63);
+            this.bttComprueba.Location = new System.Drawing.Point(486, 23);
             this.bttComprueba.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.bttComprueba.Name = "bttComprueba";
             this.bttComprueba.Size = new System.Drawing.Size(112, 45);
