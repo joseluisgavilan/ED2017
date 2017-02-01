@@ -7,3 +7,6 @@ E:\OneDrive\IES\2016-2017\ede\tema 4\Ejemplo clases\Coche\Coche\bin\Debug\Coche.
 E:\OneDrive\IES\2016-2017\ede\tema 4\Ejemplo clases\Coche\Coche\obj\Debug\Coche.exe
 E:\OneDrive\IES\2016-2017\ede\tema 4\Ejemplo clases\Coche\Coche\obj\Debug\Coche.pdb
 E:\OneDrive\IES\2016-2017\ede\tema 4\Ejemplo clases\Coche\Coche\obj\Debug\Coche.frmEjemplo.resources
+C:\Users\josel\OneDrive\IES\2016-2017\ede\tema 4\Ejemplo clases\repGit\ED2017\Coche\bin\Debug\Coche.exe.config
+C:\Users\josel\OneDrive\IES\2016-2017\ede\tema 4\Ejemplo clases\repGit\ED2017\Coche\obj\Debug\Coche.exe
+C:\Users\josel\OneDrive\IES\2016-2017\ede\tema 4\Ejemplo clases\repGit\ED2017\Coche\obj\Debug\Coche.pdb
