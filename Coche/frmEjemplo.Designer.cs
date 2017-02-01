@@ -65,7 +65,7 @@
             // 
             // bttCrear
             // 
-            this.bttCrear.Location = new System.Drawing.Point(372, 20);
+            this.bttCrear.Location = new System.Drawing.Point(372, 50);
             this.bttCrear.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.bttCrear.Name = "bttCrear";
             this.bttCrear.Size = new System.Drawing.Size(226, 94);
@@ -114,7 +114,7 @@
             // 
             // bttComprueba
             // 
-            this.bttComprueba.Location = new System.Drawing.Point(486, 48);
+            this.bttComprueba.Location = new System.Drawing.Point(486, 23);
             this.bttComprueba.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.bttComprueba.Name = "bttComprueba";
             this.bttComprueba.Size = new System.Drawing.Size(112, 45);
