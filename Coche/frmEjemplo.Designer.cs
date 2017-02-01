@@ -108,7 +108,7 @@
             // 
             this.bttComprueba.Location = new System.Drawing.Point(317, 31);
             this.bttComprueba.Name = "bttComprueba";
-            this.bttComprueba.Size = new System.Drawing.Size(75, 23);
+            this.bttComprueba.Size = new System.Drawing.Size(75, 29);
             this.bttComprueba.TabIndex = 2;
             this.bttComprueba.Text = "Comprueba";
             this.bttComprueba.UseVisualStyleBackColor = true;
