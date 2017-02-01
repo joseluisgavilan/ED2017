@@ -1,0 +1,9 @@
+E:\OneDrive\IES\2016-2017\ede\tema 4\Ejemplo clases\Coche\Coche\bin\Debug\Coche.exe.config
+E:\OneDrive\IES\2016-2017\ede\tema 4\Ejemplo clases\Coche\Coche\obj\Debug\Coche.csprojResolveAssemblyReference.cache
+E:\OneDrive\IES\2016-2017\ede\tema 4\Ejemplo clases\Coche\Coche\obj\Debug\Coche.Properties.Resources.resources
+E:\OneDrive\IES\2016-2017\ede\tema 4\Ejemplo clases\Coche\Coche\obj\Debug\Coche.csproj.GenerateResource.Cache
+E:\OneDrive\IES\2016-2017\ede\tema 4\Ejemplo clases\Coche\Coche\bin\Debug\Coche.exe
+E:\OneDrive\IES\2016-2017\ede\tema 4\Ejemplo clases\Coche\Coche\bin\Debug\Coche.pdb
+E:\OneDrive\IES\2016-2017\ede\tema 4\Ejemplo clases\Coche\Coche\obj\Debug\Coche.exe
+E:\OneDrive\IES\2016-2017\ede\tema 4\Ejemplo clases\Coche\Coche\obj\Debug\Coche.pdb
+E:\OneDrive\IES\2016-2017\ede\tema 4\Ejemplo clases\Coche\Coche\obj\Debug\Coche.frmEjemplo.resources
