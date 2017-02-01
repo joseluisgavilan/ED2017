@@ -142,9 +142,9 @@
             this.label3.Location = new System.Drawing.Point(27, 48);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(192, 20);
+            this.label3.Size = new System.Drawing.Size(196, 20);
             this.label3.TabIndex = 0;
-            this.label3.Text = "Elige el límite de velocidad";
+            this.label3.Text = "Elige el límite de velocidad:";
             // 
             // gbCoche
             // 
